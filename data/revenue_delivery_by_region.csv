@@ -1,0 +1,4 @@
+region,orders,total_revenue,on_time_rate
+Aarhus,292,205724.0,0.832
+Odense,261,184911.0,0.824
+Copenhagen,247,161397.0,0.846
