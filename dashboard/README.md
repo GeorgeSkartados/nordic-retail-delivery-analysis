@@ -11,5 +11,3 @@ The interactive Power BI dashboard visualizes:
 - Monthly on-time delivery performance
 - Delivery reliability by region
 - Revenue distribution across regions
-
-![Dashboard preview](dashboard/dashboard_preview.png)
